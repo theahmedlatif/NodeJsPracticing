@@ -1,0 +1,5 @@
+1. Spin up node.js server on port 3000;
+2. Handle 3 route:
+  a. root route '/'
+  b. list of dummy users '/users'
+  c. create user to add users.
